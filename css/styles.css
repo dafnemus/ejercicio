@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.imagen {
+  width: 250px;
+  position: absolute;
+  
+}
+.medalla{
+  width: 45px;
+  position: fixed;
+  left: 185px;
+  top: 37px;
+}
+.titulo{
+color: purple;
+position: relative;
+bottom:-247px
+
+}
+.autor{
+  position: relative;
+  bottom: -265px;
+}
