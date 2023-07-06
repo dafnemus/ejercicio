@@ -2,30 +2,27 @@
   margin: 0;
   padding: 0;
 }
-.contenedor{
+.contenedor {
   margin-left: 50px;
-  
 }
 .imagen {
   width: 500px;
   position: absolute;
-  
 }
-.medalla{
+.medalla {
   width: 100px;
   position: relative;
   left: 363px;
   top: 40px;
 }
-.titulo{
+.titulo {
   font-size: 36px;
-color: purple;
-position: relative;
-bottom:-465px;
-left: 15px;
-
+  color: purple;
+  position: relative;
+  bottom: -465px;
+  left: 15px;
 }
-.autor{
+.autor {
   font-size: 20px;
   position: relative;
   bottom: -485px;
